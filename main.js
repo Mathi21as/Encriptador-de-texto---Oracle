@@ -28,7 +28,7 @@ function load(){
         <footer>
             <p>Desarrollado por Mathias Ledesma</p>
             <div>
-                <a href="https://github.com/Mathi21as/weathernow/tree/main/docs" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Mathi21as/Encriptador-de-texto---Oracle" target="_blank" rel="noreferrer">
                     <img src="./resources/images/github-sign.png" alt="github image"></img>
                 </a>
                 <a href="https://www.linkedin.com/in/mathias-ledesma-9a6b62212" target="_blank" rel="noreferrer">
@@ -67,7 +67,7 @@ function load(){
         <footer>
             <p>Desarrollado por Mathias Ledesma</p>
             <div>
-                <a href="https://github.com/Mathi21as/weathernow/tree/main/docs" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Mathi21as/Encriptador-de-texto---Oracle" target="_blank" rel="noreferrer">
                     <img src="./resources/images/github-sign.png" alt="github image"></img>
                 </a>
                 <a href="https://www.linkedin.com/in/mathias-ledesma-9a6b62212" target="_blank" rel="noreferrer">
